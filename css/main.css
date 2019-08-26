@@ -1,24 +1,38 @@
 body {
-    background-color: beige;
+    background-color: #8F282A;
     margin: 0;
 }
 
 /*Targeting a class in css- every element with the class header will recieve the rule*/
 
 .header{
-    background-color:green;
+    background-color:#000000;
     overflow: hidden;
+}
+
+.header a:hover{
+    background-color:#D41D25;
 }
 
 .headerLink {
     padding: 14px 16px;
-    color: black;
+    color:#EDF7F6;
     font-size: 20px
 }
 
 #homeLink{
     float: left;
+    border-radius: 4px
 }
 #aboutLink{
     float: right;
+    border-radius: 4px;
 }
+
+img {
+    border-radius: 50%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }

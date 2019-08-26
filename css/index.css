@@ -1,0 +1,17 @@
+#srLogo{
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    height: -25%;
+    width: 25%;
+}
+
+#name {
+  text-align: center;  
+}
+
+#businessDescription {
+    text-align: center;
+    margin: 20px;
+    font-size: 25px;
+}
