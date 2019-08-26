@@ -1,0 +1,24 @@
+body {
+    background-color: beige;
+    margin: 0;
+}
+
+/*Targeting a class in css- every element with the class header will recieve the rule*/
+
+.header{
+    background-color:green;
+    overflow: hidden;
+}
+
+.headerLink {
+    padding: 14px 16px;
+    color: black;
+    font-size: 20px
+}
+
+#homeLink{
+    float: left;
+}
+#aboutLink{
+    float: right;
+}
