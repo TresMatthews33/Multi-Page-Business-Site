@@ -36,3 +36,18 @@ img {
     max-width: 100%;
     height: auto;
   }
+.footer{
+    background-color:#000000;
+    overflow: hidden;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+  }
+
+body {
+}
